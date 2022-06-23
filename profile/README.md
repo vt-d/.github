@@ -5,8 +5,13 @@
 <h1 align="center">Everblush</h1> 
 <h4 align="center"><i>A Dark, vibrant and beatufiul colorscheme for your desktop</i></h4> 
 
+
+<a align="center" href="https://discord.gg/KmARmpTegP">
+<img alt="Discord" src="https://img.shields.io/discord/989429995925553182?color=%2367b0e8&label=DISCORD&logo=discord&logoColor=%236cb5ed&style=for-the-badge">
+</a> 
+
 # About 
-Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and color's. Everblush was before termed as "UwU" but after the name it has become "Everblush". So, to the old users who might be finding uwU then this is UwU with some of the updates. 
+Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and color's. Everblush was before termed as "UwU" but after the name it has become "Everblush". So, to the old users who might be finding UwU then this is UwU with some of the updates. 
 
 ## Ports 
 # Editor's (most importantly xD)
@@ -15,6 +20,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [VsCode](https://github.com/Everblush/vscode)
 - [Obsidian](https://github.com/Everblush/Obsidian) - (markdown editor)
 - [Doom Emacs](https://github.com/Everblush/doomemacs)
+- [Emacs](https://github.com/Everblush/emacs)
 - [Lite-XL](https://github.com/Everblush/lite-xl)
 
 # Terminal Emulators 
@@ -39,7 +45,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [rofi](https://github.com/Everblush/rofi)
 
 # Wallpaper 
-- [Wallpapers](https://github.com/Everbnlush/wallpapers)
+- [Wallpapers](https://github.com/Everblush/wallpapers)
 
 # Contribution
 - The contribution details will be soon released as they are WIP. 
