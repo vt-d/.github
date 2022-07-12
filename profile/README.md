@@ -1,5 +1,6 @@
+
 <div align="center">
-<img src="https://github.com/Everblush/everblush/blob/main/poster.png">
+<img style="border-radius: 20px" src="./assets/term.png" alt="everblush-syntax">
 </div> 
 
 <h1 align="center">Everblush</h1> 
