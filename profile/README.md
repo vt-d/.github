@@ -1,8 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" height="300px" width="300px" style="border-radius: 100%;" alt="logo"> 
-</div
-<div align="center">
-<img style="border-radius: 20px" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
+<img src="./assets/logo.png" height="200px" width="200px" style="border-radius: 100%;" alt="logo"> 
 </div> 
 
 <h1 align="center">Everblush</h1> 
