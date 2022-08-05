@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" height="200px" width="200px" style="border-radius: 100%;" alt="logo"> 
+<img src="./assets/logo.png" height="200px" width="200px" alt="logo"> 
 </div> 
 
 <h1 align="center">Everblush</h1> 
