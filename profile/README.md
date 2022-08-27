@@ -102,6 +102,9 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Alacritty](https://github.com/Everblush/terminal-emulators/blob/main/src/alacritty.yml)
 - [Xfce4-Terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminal)
 - [Xresource](https://github.com/Everblush/terminal-emulators/blob/main/src/Xresources)
+- [Termux](https://github.com/Everblush/termux)
+- [Foot](https://github.com/Everblush/terminal-emulators/blob/main/src/foot.ini)
+- [iTerm2](https://github.com/Everblush/terminal-emulators/tree/main/src/iterm2)
 
 ## GTK 
 - [GTK](https://github.com/Everblush/gtk)
@@ -115,6 +118,10 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Fzf](https://github.com/Everblush/fzf)
 - [Zathura](https://github.com/Everblush/zathura)
 - [Rofi](https://github.com/Everblush/rofi)
+- [Spotify](https://github.com/Everblush/spotify)
+
+## Browsers
+- [Qutebrowser](https://github.com/Everblush/qutebrowser)
 
 ## Wallpaper 
 - [Wallpapers](https://github.com/Everblush/wallpapers)
