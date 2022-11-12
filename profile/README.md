@@ -13,7 +13,7 @@
 </div> 
 
 # About 
-Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and colors.
+Everblush is a colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and colors.
 
 # Colors
 <table align="center">
@@ -113,12 +113,13 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Discord](https://github.com/Everblush/Discord)
 - [Telegram](https://github.com/Everblush/telegram)
 
-## Miscallaneous 
+## Miscellaneous
 - [Bat](https://github.com/Everblush/bat)
 - [Fzf](https://github.com/Everblush/fzf)
 - [Zathura](https://github.com/Everblush/zathura)
 - [Rofi](https://github.com/Everblush/rofi)
 - [Spotify](https://github.com/Everblush/spotify)
+- [cava](https://github.com/Everblush/cava)
 
 ## Browsers
 - [Qutebrowser](https://github.com/Everblush/qutebrowser)
